@@ -23,7 +23,7 @@ syntax keyword cppSTLdefine
         \ MB_CUR_MAX MB_LEN_MAX WCHAR_MAX WCHAR_MIN WEOF __STDC_UTF_16__ __STDC_UTF_32__
 
 syntax keyword cppSTLnamespace
-        \ std experimental rel_ops
+        \ std experimental rel_ops bsl
 
 syntax keyword cppSTLconstant
         \ badbit digits digits10 eofbit failbit goodbit has_denorm has_denorm_loss has_infinity has_quiet_NaN has_signaling_NaN is_bounded is_exact is_iec559 is_integer is_modulo is_signed is_specialized max_exponent max_exponent10 min_exponent min_exponent10 npos radix round_style tinyness_before traps
